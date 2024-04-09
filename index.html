@@ -16,8 +16,21 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
+				<section>Slide 1
+				 <aside class="notes">
+				 </aside>			
+				</section>
 				<section>Slide 2</section>
+				<section 
+				 data-markdown="slides/01-intro.md"
+         data-separator-notes="^Note:"
+				></section>
+				<section 
+				 id="spreading-the-web"
+				 data-markdown="slides/02-spreading-the-web.md"
+         data-separator-notes="^Note:"
+				></section>
+
 			</div>
 		</div>
 
@@ -35,6 +48,8 @@
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});
+			Reveal.addEventListener('slidechanged', function (event) {
+			})
 		</script>
 	</body>
 </html>
