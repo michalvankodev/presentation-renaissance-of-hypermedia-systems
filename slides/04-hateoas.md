@@ -9,6 +9,6 @@
 
 Note:
 
-Viac ako o hypermedia som prisiel povedat prave o koncepte Hypermedia as the engine of application state.
+Jednym z konceptov hypermedia systemov a navrhou REST systemov je Hypermedia as the engine of application state.
 
 Tento koncept nie je novinka. Roy Fielding ho v roku 2000 vo svojej dizertacnej praci spaja s REST architekturov. Prave tato dizertacna praca tuto architekturu opisuje a udava REST principy do povedomia.

@@ -6,7 +6,9 @@ def render(assigns) do
   <div class="">
     <div>
       <div>
-        <button phx-click="github_deploy">Deploy to GitHub</button>
+        <button phx-click="github_deploy">
+          Deploy to GitHub
+        </button>
       </div>
       Status: <%= @deploy_step %>
     </div>
