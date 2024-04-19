@@ -1,0 +1,205 @@
+/**
+ * Hotovo theme for reveal.js.
+ * Author: Lukas Orgovan
+ */
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+// Include theme-specific fonts
+@import url(./fonts/gtwalsheim/gt-walsheim.css);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+
+/**
+ * Hotovo brand colors
+ */
+$black: #141914;
+$gray: #d9ceca;
+$yellow: #ffc800;
+$orange: #ff6400;
+$red: #dc322f;
+$pink: #ff005a;
+$blue: #00b9ff;
+$green: #a4ffcd;
+$violet: #7800ff;
+
+// Override theme settings (see ../template/settings.scss)
+$mainColor: $gray;
+$headingColor: $green;
+$headingTextShadow: none;
+$backgroundColor: $black;
+$linkColor: $green;
+$linkColorHover: lighten($linkColor, 20%);
+$selectionBackgroundColor: $pink;
+$mainFont: "GT Walsheim";
+$headingFont: "GT Walsheim";
+$headingFontWeight: "bold";
+
+// Change text colors against light slide backgrounds
+@include light-bg-text-color(#222);
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+// Define and expose color variables
+:root {
+  --r-black: #{$black};
+  --r-gray: #{$gray};
+  --r-yellow: #{$yellow};
+  --r-orange: #{$orange};
+  --r-pink: #{$pink};
+  --r-blue: #{$blue};
+  --r-green: #{$green};
+  --r-violet: #{$violet};
+}
+.reveal {
+  .hotovo-logo {
+    position: absolute;
+  }
+  a {
+    text-decoration: underline;
+  }
+  h3 {
+    margin-bottom: 5rem;
+  }
+
+  /*       Layout     * /
+  /* ================= */
+  .l-double {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: start;
+    align-items: center;
+    gap: 4rem;
+  }
+  .p-1 {
+    padding: 1rem;
+  }
+  .p-2 {
+    padding: 2rem;
+  }
+  .p-3 {
+    padding: 3rem;
+  }
+  pl-1 {
+    padding-left: 1rem;
+  }
+  pl-2 {
+    padding-left: 2rem;
+  }
+  pl-3 {
+    padding-left: 3rem;
+  }
+  pr-1 {
+    padding-right: 1rem;
+  }
+  pr-2 {
+    padding-right: 2rem;
+  }
+  pr-3 {
+    padding-right: 3rem;
+  }
+  .m-1 {
+    margin: 1rem;
+  }
+  .m-2 {
+    margin: 2rem;
+  }
+  .m-3 {
+    margin: 3rem;
+  }
+  .ml-1 {
+    margin-left: 1rem;
+  }
+  .ml-2 {
+    margin-left: 2rem;
+  }
+  .ml-3 {
+    margin-left: 3rem;
+  }
+  .mr-1 {
+    margin-right: 1rem;
+  }
+  .mr-2 {
+    margin-right: 2rem;
+  }
+  .mr-3 {
+    margin-right: 3rem;
+  }
+
+  /* Background colors */
+  /* ================= */
+  .bg-violet {
+    background-color: $violet;
+  }
+  .bg-violet {
+    background-color: var(--r-violet);
+  }
+  .bg-green {
+    background-color: var(--r-green);
+  }
+  .bg-blue {
+    background-color: var(--r-blue);
+  }
+  .bg-pink {
+    background-color: var(--r-pink);
+  }
+  .bg-orange {
+    background-color: var(--r-orange);
+  }
+  .bg-yellow {
+    background-color: var(--r-yellow);
+  }
+  .bg-gray {
+    background-color: var(--r-gray);
+  }
+  .bg-black {
+    background-color: var(--r-black);
+  }
+
+  /* Text style and colors */
+  /* ===================== */
+  .t-left {
+    text-align: left;
+  }
+  .t-right {
+    text-align: right;
+  }
+  .t-center {
+    text-align: center;
+  }
+  .t-lower {
+    text-transform: lowercase;
+  }
+  .t-upper {
+    text-transform: uppercase;
+  }
+  .t-violet {
+    color: var(--r-violet);
+  }
+  .t-green {
+    color: var(--r-green);
+  }
+  .t-blue {
+    color: var(--r-blue);
+  }
+  .t-pink {
+    color: var(--r-pink);
+  }
+  .t-orange,
+  .t-highlight {
+    color: var(--r-orange);
+  }
+  .t-yellow {
+    color: var(--r-yellow);
+  }
+  .t-gray {
+    color: var(--r-gray);
+  }
+  .t-black {
+    color: var(--r-black);
+  }
+}

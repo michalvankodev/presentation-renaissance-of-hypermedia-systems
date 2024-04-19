@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("./GT-Walsheim/GT-Walsheim-Bold.woff2");
+  src: url("./GT-Walsheim/GT-Walsheim-Bold.woff") format("woff"),
+    url("./GT-Walsheim/GT-Walsheim-Bold.ttf") format("truetype");
+
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("./GT-Walsheim/GT-Walsheim-Light.woff2");
+  src: url("./GT-Walsheim/GT-Walsheim-Light.woff") format("woff"),
+    url("./GT-Walsheim/GT-Walsheim-Light.ttf") format("truetype");
+
+  font-weight: lighter;
+  font-style: normal;
+}
