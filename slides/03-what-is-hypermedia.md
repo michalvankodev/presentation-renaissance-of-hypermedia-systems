@@ -1,6 +1,6 @@
 ## What is Hypermedia
 
-<p class="fragment">Media such as text, audio, video, graphics - connected with _Hyper_links</p>
+<p class="fragment">Media such as text, audio, video, graphics - connected with <em>Hyper</em>links</p>
 <p class="fragment"><span class="hyper-highlight">Hyper</span>text markup languague (HTML, 1995)</p>
 <p class="fragment"><span class="hyper-highlight">Hyper</span>text transfer protocol (HTTP, 1996)</p>
 
