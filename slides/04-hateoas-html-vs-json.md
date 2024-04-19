@@ -1,0 +1,2 @@
+TODO HTML VS JSON
+MOZE BYT JSON hypermedia?
