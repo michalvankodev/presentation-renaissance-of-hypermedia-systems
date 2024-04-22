@@ -1,6 +1,6 @@
 ## Hypermedia system
 
-- hypermedia, such as HTML.
+- <span class="hyper-highlight">hyper</span>media, such as HTML.
 - network protocol, such as HTTP.
 - server that presents a hypermedia API responding to network requests with hypermedia responses.
 - client that properly interprets those responses.
