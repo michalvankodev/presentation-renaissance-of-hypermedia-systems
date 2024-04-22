@@ -7,7 +7,7 @@
 
 Note:
 
-Za Hypermedia system alebo povazujeme taku architekturu ktora **obsahuje tieto 4 jednoduche prvky**.
+Za Hypermedia system povazujeme taku architekturu ktora **obsahuje tieto 4 jednoduche prvky**.
 
 Tento koncept nam radi vyuzit **hypermedia ako samotne medium ktorym komunikujeme s klientom**
 

@@ -13,10 +13,10 @@ Jednym z konceptov hypermedia systemov a **navrhou REST systemov je Hypermedia a
 
 Tento koncept nie je novinka. **Roy Fielding** ho v roku 2000 vo svojej **dizertacnej praci spaja s REST architekturov**. Prave tato dizertacna praca tuto architekturu opisuje a udava REST principy do povedomia.
 
-**Klient by nemal ovládať business logiku alebo a ani spravanie sa modelov.**
+**Klient by nemal ovládať business logiku a ani spravanie sa modelov.**
 
 Vyhýbame sa tym veľkému **bottlenecku typických SPA alebo mobilných aplikácií**.
 
-Kde je **nutný prenos logiky ako sú pospájané rôzne routy a ako **vyskladať obsah keď prídu čisté data** zo servera.
+Kde je **nutný prenos logiky ako sú pospájané rôzne routy** a ako **vyskladať obsah keď prídu čisté data** zo servera.
 
 **Nieje ziadne pravidlo ze by sa na klientovi nemal vyskytovat ziaden script** ale **klient by nemal riadit stav aplikacie**.

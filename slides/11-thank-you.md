@@ -6,7 +6,7 @@
 
 Note:
 
-**Ďakujem pekne za pozornosť** a dúfam že sa vám táto prezentácia páčila a ze ste sa zabavili.
+**Ďakujem pekne za pozornosť** a dúfam že sa vám táto prezentácia páčila a ze si odnesiete nieco prinosne.
 
 Ak by ste mali zaujem sa **zabávať programovaním**, tak sa môžte pridať a sledovať môj stream, kde riešime vždy všelijaké témy, zážitky spojene s programovaním.
 

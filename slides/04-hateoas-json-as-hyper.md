@@ -1,4 +1,4 @@
-#### JSON as hypermedia
+#### JSON APIs
 
 ```json
 [{
@@ -18,6 +18,10 @@
 Note:
 
 Na tomto priklade by som chcel ukazat hlavny rozdiel medzi JSON APIs a HATEOAS.
+
 Klient musi ovladat ake akcie sa daju robit s danymi datami.
-Ktore polia su sortovane a ktore nie.
+
+Taktiez musi data ako hraci cas a datum narodenia spracovat aby ich zobrazil uzivatelovi vo spravnom formate
+
+Musi vediet ktore polia su sortovatelne a ktore nie.
 
