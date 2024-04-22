@@ -7,8 +7,9 @@
 Note:
 
 Ked uz sme pri historii, tak sa vratme este o kusok spat, a vysvetlime si, co su to vlastne tie *Hypermedia*.
-Slovicko hyper znamena **nieco viac**. Hypermedia svojho casu boli nieco viac ako klasicke casopisy alebo noviny. 
+Slovicko hyper znamena **nieco viac**. Hypermedia svojho casu boli nieco viac ako klasicke media ako casopisy alebo noviny. 
 
-**HTML** neobsahovali len text. Ale priniesli k textu interaktivitu a prepojenie.
+**HTML** neobsahovali len text. Ale priniesol k textu interaktivitu a prepojenie.
+
 A tak ako sa internet rozsiroval, tak sa vytvoril aj **HTTP** protocol, ktory sluzi na prenos tychto medii dodnes.
  

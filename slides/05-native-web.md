@@ -35,3 +35,5 @@ ktora je **bezna v interaktivnych webovych aplikaciach**.
 
 Pomocou jedneho `hx-post` atributu HTMX **nahodi listener a nasledne vymeni** content `#contact-view`
 odpovedou zo servra.
+
+Ja by som chcel venovať viac pozornosti práve hypermedia architektúre lebo **htmx je len jedna implementácia** tejto architektúry a nie jediná.

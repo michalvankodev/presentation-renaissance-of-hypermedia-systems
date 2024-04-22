@@ -15,9 +15,9 @@ Na druhej strane **logika servera sa môže meniť zo sekundy na sekundu** a pok
 
 To iste platí v prípade aj **webovych aplikacii kde nemusíme vymýšľať rôzne mechanizmy** kde musíme žiadať užívateľov aby si **reloadli stránku**.
 
-**Dôležité si je vedieť vybrať kedy je vhodne použiť práve túto architektúru**.
+**Dôležité je vedieť si vybrať kedy je vhodne použiť práve túto architektúru**.
 
-Je **vhodná keď váš produkt / klient je práve o komunikácii medzi serverom a klientom**.
+Je **vhodná keď váš produkt je práve o komunikácii medzi serverom a klientom**.
 
 Ak staviate **aplikaciu alebo hru kde sa všetko odohráva na strane klienta** tak vtedy je **dobré oddeliť túto logiku na samostatné riešenie**.
 

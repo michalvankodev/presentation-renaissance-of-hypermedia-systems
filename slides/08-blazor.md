@@ -26,5 +26,5 @@ Blazor je .Net frontend-ovy framework od Microsoftu.
 
  Ci uz 
 - **cisto server side rendered**,
-- client side rendering cez WebAssembly 
-- alebo takzvany **Interactivny server side rendering** ktory sa podoba hypermedia pristupu a predosle zmieninim frameworkom.
+- client side **rendering cez WebAssembly**
+- alebo takzvany **Interactivny server side rendering** ktory sa podoba hypermedia pristupu a predosle zmienenim frameworkom.

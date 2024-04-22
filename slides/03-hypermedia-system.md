@@ -7,11 +7,11 @@
 
 Note:
 
-Za Hypermedia system alebo architekturu taku architekturu ktora **obsahuje tieto 4 jednoduche prvky**.
+Za Hypermedia system alebo povazujeme taku architekturu ktora **obsahuje tieto 4 jednoduche prvky**.
 
 Tento koncept nam radi vyuzit **hypermedia ako samotne medium ktorym komunikujeme s klientom**
 
-**Klient vie elementy zobrazovať** a pozna ich spravanie a zákazník/uzivatel vie s nimi interagovat.
+**Klient vie elementy zobrazovať** a pozna ich spravanie a uzivatel s nimi vie interagovat.
 
 Ku **kontrastu s "modernymi" Webovymi aplikaciami** sa tento system lisi najma v tom,
 ze **server si berie zodpovednost prezentovat a vytvarat obsah** ktory sa ma zobrazit.

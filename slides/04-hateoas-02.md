@@ -15,7 +15,7 @@
 
 Note:
 
-**Nasledne požiadavky** sú poslané hostiteľovi a **hostiteľ vždy odpovedá naspat recou klienta**, cize hypermediom.
+**Nasledne požiadavky** sú poslané hostiteľovi a **hostiteľ vždy odpovedá naspat recou klienta**, v tomto pripade HTML.
 
-Klient požiada o obsah stránky a server mu vráti HTML. **Browser vie ako HTML zobraziť** a ako sa elementy správajú. **Ktoré sa dajú klikať**. **Do ktorých sa dá písať** a vie **linkovat stránky medzi sebou** a taktiež **posielať požiadavky cez formuláre**.
+**Browser vie ako HTML zobraziť** a ako sa elementy správajú. **Ktoré sa dajú klikať**. **Do ktorých sa dá písať** a vie **linkovat stránky medzi sebou** a taktiež **posielať požiadavky cez formuláre**.
 
