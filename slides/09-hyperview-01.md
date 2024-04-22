@@ -24,7 +24,8 @@ Dala by sa takáto architektúra využiť aj inde ako na webe?
 
 Tak ako sa web priblížil k mobilným aplikáciám. Čo keby sme priblížili mobilne a natívne aplikácie bližšie k webu?
 
-Nemusíte si predstavovať. Ja vám predstavím, dá sa povedať, sesterskú knižnicu k HTMX a to je hyperview.
+Chcem vám predstavit, dá sa povedať, sesterskú knižnicu k HTMX a to je hyperview.
 
-Keďže mobilné aplikácie natívne neovládajú HTML, tak nám treba vlastne nejaký jazyk medzi serverom a klientom pomocou ktorého budú komunikovať, tak aby server vedel priamo posielať elementy a akú funkciu majú tieto elementy a klient by mal vedieť zobrazovať tieto elementy a vykonávať ich spravanie.
+Keďže mobilné aplikácie natívne neovládajú HTML, tak nám treba vlastne nejaký jazyk,
+medzi serverom a klientom pomocou ktorého budú komunikovať, v tomto pripade HXML, tak aby server vedel priamo posielať elementy a akú funkciu majú tieto elementy a klient by mal vedieť zobrazovať tieto elementy a vykonávať ich spravanie.
 
