@@ -23,14 +23,13 @@
 ...
 }
 ```
-
 - Client has to know how to parse and display elements
 
 
 Note:
 
-Kebyze sme sa ozaj rozhodli ze by sme chceli pouzit JSON na prenos dat v hypermedia systeme,
+Kebyze sme sa ozaj rozhodli ze by sme chceli **pouzit JSON na prenos dat v hypermedia systeme**,
 tak ten JSON by mal vyzerat nejak takto.
-Client stale nemusi ovladat logiku nasej aplikacie ale musi ovladat moznosti zobrazovania definovanych elementov.
+Client **stale nemusi ovladat  business logiku nasej aplikacie** ale **musi ovladat moznosti zobrazovania definovanych elementov**.
 To ci sa vam lepsie parsuje JSON ako HTML alebo XML je len otazka vkusu a performance parsera ktory si vyberieme.
 

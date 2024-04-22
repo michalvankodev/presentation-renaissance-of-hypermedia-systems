@@ -1,7 +1,6 @@
 #### HTML with state
 
 ```html
-<table>
   <tr>
     <th>Name</th>
     <th>Points</th>
@@ -20,14 +19,13 @@
 		</td>
 	</tr>
 ```
-
 - More bandwidth needed for repeatedly accessing additional pages of data
 - No parsing needed
 
 Note:
 
-Narozdiel od tradicneho JSONu, hypermedia system odpoveda priamo s tym co sa ma zobrazit.
-V odpovedi sa nachadzaju vsetky mozne akcie klienta a browser uz vie ako ich zobrazit,
-cize nieje potrebna ziadna predpriprava ani logika, ktora by naucila browser ako funguje nas produkt.
+**Narozdiel od tradicneho JSONu**, **hypermedia system odpoveda priamo** s tym co sa ma zobrazit.
+V odpovedi sa **nachadzaju vsetky mozne akcie klienta** a browser uz vie ako ich zobrazit,
+cize **nieje potrebna ziadna predpriprava ani logika, ktora by naucila browser ako funguje nas produkt**.
 
 
