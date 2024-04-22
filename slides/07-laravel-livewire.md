@@ -1,4 +1,4 @@
-## Laravel Livewire
+#### Laravel Livewire
 
 ```html
 <button class="btn btn-primary" wire:click="toggleLike()">
@@ -28,10 +28,11 @@ class PostAlert extends Component{
 
 Note:
 
-Laravel LiveWire je celkom novinka. Doplnuje Laravel o moznost interaktivne menit view componentou cez client-server komunikaciu podobne ako Phoenix LiveView.
-
-LiveWire najprv zobrazi pociatocny component klasicky cez server side render. Ked nastane interakcia tak sa zavola AJAX request so zmenamy. Server potom prerenderuje component a odosla novo upraveny HTML spat klientovi. 
-Na klientovy sa potom zmutuje DOM podla toho co server odpovedal.
+Napodobne **Laravel LiveWire** doplnuje Laravel o moznost interaktivne **menit obsah componentov** cez client-server komunikaciu podobne ako Phoenix LiveView.
 
 Rozdiel medzi phoenixom je v tom ze phoenix vyuziva na vymenu dat priamo websockety.
-LiveWire componenty sa daju napojit na websockety pomocou Laravel Echo ale samotny system renderovania sa stale daje cez AJAX.
+
+LiveWire najprv **zobrazi pociatocny component klasicky cez server side render**. Ked nastane interakcia tak sa **zavola AJAX request so zmenamy**. Server potom prerenderuje component a odosla novo upraveny HTML spat klientovi. 
+Na klientovy sa potom zmutuje DOM podla toho co server odpovedal.
+
+**LiveWire componenty sa daju napojit na websockety** pomocou Laravel Echo ale **samotny system renderovania** sa stale daje cez AJAX.

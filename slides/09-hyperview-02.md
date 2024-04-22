@@ -27,6 +27,9 @@ export default class HyperviewMap extends PureComponent<Props> {
 
 Note:
 
-Ak chcete vymyslieť vlastné správanie komponentov, tak sa vytvorí custom element na strane klienta ktorý vie ako sa má správať.
-Pri každej takejto zmene treba rátať s tým, že aplikácie si musia ľudia na svojích zariadeniach updateovat a taktiež že takéto updatey sa ešte musia aj dostať do mobilných obchodov.
+**Hyperview je react-native boilerplate** ktory je vlastne ako taký malý alternatívny browser.
+
+**Ak chcete vymyslieť vlastné správanie komponentov**, tak si vytvoríte **custom element na strane klienta** ktoremu urcite ako sa má správať.
+
+Pri každej takejto zmene treba rátať s tým, že aplikácie si musia **ľudia na svojích zariadeniach updateovat** a taktiež že takéto updatey sa ešte musia aj dostať **do mobilných obchodov**.
 

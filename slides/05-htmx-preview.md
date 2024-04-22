@@ -19,4 +19,10 @@ Note:
 
 ## htmx preview
 
-Webových developerov bude možno zaujímať HTMX viac. Kľudne sa o ňom môžme porozprávať potom. Tí ktorí sa pýtate čo HTMX je: Je to JavaScriptová knižnica ktorá implementuje práve hypermedia architektúru, tak, že je možné písať webové aplikácie v ľubovoľnom Tech stacku alebo programovacom jazyku keď sa to dá tak zjednodušene povedat. Dá sa pomocou nej vytvárať takmer plnohodnotné webové aplikácie. Ja by som chcel venovať viac pozornosti práve hypermedia architektúre lebo htmx je len webová implementácia tejto architektúry a nieje ani jediná.
+**Webových developerov bude možno zaujímať HTMX** viac. Kľudne sa o ňom môžme porozprávať **viac po prednaske**.
+
+Tí ktorí sa **pýtate čo HTMX je**: Je to **JavaScriptová knižnica** ktorá **doplnuje HTML** o **atributy ktore nam pomahaju tvorit hypermedia aplikacie**, tak, že je **možné písať aplikácie v ľubovoľnom Tech stacku** alebo **programovacom jazyku** keď sa to dá tak zjednodušene povedat.
+
+ Dá sa pomocou nej **vytvárať plnohodnotné webové aplikácie**.
+
+ Ja by som chcel venovať viac pozornosti práve hypermedia architektúre lebo **htmx je len webová implementácia** tejto architektúry a nieje ani jediná.

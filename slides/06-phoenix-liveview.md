@@ -1,4 +1,4 @@
-## Phoenix LiveView
+#### Phoenix LiveView
 
 <small>Enables rich, real-time user experiences with server-rendered HTML.</small>
 
@@ -26,4 +26,6 @@ Note:
 
 ## Pheonix liveview 
 
- Phoenix LiveView is an exciting new library which enables rich, real-time user experiences with server-rendered HTML. LiveView powered applications are stateful on the server with bidirectional communication via WebSockets, offering a vastly simplified programming model compared to JavaScript alternatives. 
+Medzi dalsie podobne fungujuce frameworky by sme vedeli zaradit **Phoenix LiveView**
+
+LiveView aplikacie vyuzivaje **dvojsmernu komunikaciu so serverom cez WebSocket**.
