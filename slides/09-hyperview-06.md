@@ -35,6 +35,8 @@ Note:
 
 Je **vhodná keď váš produkt je práve o komunikácii medzi serverom a klientom**.
 
+Dobrym prikladom su socialne siete, e-commerce, datove visualizacie, realtime monitoring a podobne.
+
 Tym, ze sme zavisli na tejto komunikacii, tak velmi tazko sa nam bude **implementovat offline support**.
 
 Stylovanie HXML je tiez definovane ako XML prvky a je odlisne od uz znamych technologii.
